@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: cadetblue;
+}
+
+.logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-links {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.link {
+    padding-left: 20px;
+}
+.top {
+    display: flex;
+    flex-direction: column;
+    margin-inline: 10%;
+}
+
+.top-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+img {
+    display: flex;
+    height: auto;
+    width: 300px;
+}
+button {
+    height: 30px;
+    width: 60px;
+}
+
+
